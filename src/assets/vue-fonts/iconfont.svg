@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="vuejs" unicode="&#58944;" d="M819.072 827.392l0.128 0.256h-188.8L512 622.933333v-0.085333l-118.272 204.8H204.928v-0.213333H0l512-886.869334L1024 827.392"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="vuejs1" unicode="&#62047;" d="M777.8 767.4H624l-112-177.2-96 177.2H64L512 0 960 767.4h-182.2z m-602.4-64h107.6L512 307 740.8 703.4h107.6L512 127 175.4 703.4z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
